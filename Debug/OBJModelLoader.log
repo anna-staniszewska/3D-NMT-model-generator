@@ -1,0 +1,4 @@
+﻿D:\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (Shaders05.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+D:\studia\Semestr_4\Grafika3D\projekt\main.cpp(189,14): warning C4244: "inicjowanie": konwersja z "unsigned int" do "float", możliwa utrata danych
+  OBJModelLoader.vcxproj -> D:\studia\Semestr_4\Grafika3D\projekt\Debug\OBJModelLoader.exe

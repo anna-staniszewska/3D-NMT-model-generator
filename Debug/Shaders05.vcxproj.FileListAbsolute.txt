@@ -1,0 +1,8 @@
+D:\grafika\Przyklad5\Debug\Shaders05.exe
+D:\studia\Semestr_4\Grafika3D\Przyklad5\Debug\Shaders05.exe
+D:\studia\Semestr_4\Grafika3D\projekt2\Debug\Shaders05.exe
+D:\grafika\projekt2\Debug\Shaders05.exe
+C:\Users\zuzka\Desktop\Ania\projekt2\Debug\Shaders05.exe
+D:\studia\Semestr_4\Grafika3D\projektver\Debug\Shaders05.exe
+D:\studia\Semestr_4\Grafika3D\projekt_ver\Debug\Shaders05.exe
+D:\studia\Semestr_4\Grafika3D\projekt_light\Debug\Shaders05.exe

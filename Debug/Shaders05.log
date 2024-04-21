@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\studia\Semestr_4\Grafika3D\projekt_light\main.cpp(295,11): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+  Shaders05.vcxproj -> D:\studia\Semestr_4\Grafika3D\projekt_light\Debug\Shaders05.exe
